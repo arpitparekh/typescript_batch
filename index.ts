@@ -1,4 +1,5 @@
 // variables
+// let var and const
 
 // number
 let age: number = 25

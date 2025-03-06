@@ -10,6 +10,8 @@ let names : readonly string[] = ["John", "Jane", "Jack"]
 console.log(names[0]);
 console.log(names[2]);
 
+// tuples
+// named tuple
 let userData: [string, number, boolean] = ["John", 25, true]
 userData.push("Jack")
 console.log(userData);
