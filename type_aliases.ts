@@ -47,3 +47,6 @@ console.log(myCar.model);
 console.log(myCar.year);
 console.log(myCar.milage);
 
+let b = 45;
+
+let num23 = null;
